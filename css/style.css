@@ -96,7 +96,7 @@ body{font-family:"微软雅黑";font-size:9pt}
 .order-container .table-header-item:nth-child(5) {width: 34%;}
 .order-container .table-header-item:nth-child(6) {width: 20%;}
 .order-container .page-wrap {position: absolute;right: 90px;top: -20px;}
-table,tr,td,th {border: 1px solid #000;border-collapse:collapse;height: 30px;padding: 5px 0;overflow: hidden;}
+table,tr,td,th {border: 1px solid #000;border-collapse:collapse;height: 30px;padding: 2px 0;}
 .order-container .table-info {text-align: center;}
 .order-container .table-bottom {margin-top: 10px;}
 .order-container .table-bottom-title {padding-left: 10px;}
